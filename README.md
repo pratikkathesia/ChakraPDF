@@ -1,6 +1,6 @@
 # ChakraPDF
 
-Welcome to **ChakraPDF**, an intuitive web application that seamlessly transforms your documents. This project provides robust tools to convert DOCX files to PDF,images to PDF and combine multiple PDFs into a single document. Designed with a modern UI, powered by React and Three.js. ChakraPDF offers a smooth user experience for all your document conversion needs.
+Welcome to **ChakraPDF**, an intuitive web application that seamlessly transforms your documents. This project provides robust tools to convert DOCX files to PDF,images to PDF and combine multiple PDFs into a single document. Designed with a modern Material UI, powered by React and Three.js. ChakraPDF offers a smooth user experience for all your document conversion needs.
 
 ## 🚀 Features
 
