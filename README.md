@@ -37,36 +37,14 @@ Welcome to **ChakraPDF**, an intuitive web application that seamlessly transform
    git clone https://github.com/pratikkathesia/chakraPDF.git
    cd chakraPDF
    ```
-
-2. **Install dependencies for both backend and frontend**
-
-   **Backend:**
-   ```bash
-   cd backend
-   npm install
-   ```
-
-   **Frontend:**
-   ```bash
-   cd ../frontend
-   npm install
-   ```
-
 ### Running the Application
-
-**Start the backend server**
-```bash
-cd backend
-npm start
-```
-
 **Start the frontend development server**
 ```bash
 cd frontend
 npm start
 ```
 
-Visit [http://localhost:3000](http://localhost:3000) to use the application.
+Visit (http://localhost:3000) to use the front-end application.
 
 ## ✨ Usage
 - **Landing Page**: Upon visiting the site, a stunning 3D animation welcomes you, crafted using Three.js.
@@ -78,5 +56,3 @@ Visit [http://localhost:3000](http://localhost:3000) to use the application.
 For any inquiries, please contact [pratikkathesia@gmail.com](mailto:pratikkathesia@gmail.com).
 
 ---
-
-This README provides a clear and detailed overview of the ChakraPDF project, including the features, technologies used, and instructions for setup and usage.
